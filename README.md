@@ -1,11 +1,11 @@
-**FIFA Players Exploratory Data Analysis (EDA)**
+# FIFA Players Exploratory Data Analysis (EDA)
 
-**Project Overview**
+## Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on a FIFA players dataset using Python.
 The goal is to extract meaningful insights about player demographics, salaries, physical attributes, and preferences using data cleaning and visualization techniques.
 
-∙**Dataset**
+## Dataset
 
 Source: FIFA Players Dataset
 
@@ -25,7 +25,7 @@ Height
 
 Preferred Foot
 
-**Technologies Used**
+## Technologies Used
 
 Python
 
@@ -35,7 +35,7 @@ Matplotlib – data visualization
 
 Seaborn – statistical plots
 
-∙**Analysis Performed**
+## Analysis Performed
 
 The following insights were derived from the dataset:
 
@@ -67,7 +67,7 @@ Preferred foot analysis
 
 Displays which foot (Left/Right) is most commonly preferred by players using a bar chart.
 
-∙**Data Cleaning**
+## Data Cleaning
 
 Salary (Wage)
 
@@ -77,7 +77,7 @@ Height
 
 Converted from string format (e.g., 6'2) into total inches for comparison.
 
-∙**Visualizations**
+## Visualizations
 
 Bar chart for Top 5 Countries
 
@@ -87,7 +87,7 @@ Count plot for Preferred Foot
 
 All plots are generated using matplotlib and seaborn.
 
-∙**How to Run the Project**
+## How to Run the Project
 
 Navigate to the project directory:
 
@@ -102,7 +102,7 @@ Run the script:
 
 python fifa_eda.py
 
-∙**Key Insights**
+## Key Insights
 
 A small number of countries dominate player representation.
 
@@ -112,7 +112,7 @@ Most players prefer their right foot.
 
 Height and salary extremes highlight physical and financial diversity in professional football.
 
-∙**Conclusion**
+## Conclusion
 
 This project demonstrates how EDA helps uncover trends and patterns in sports datasets.
 It is suitable for data analysis coursework, portfolio projects, and beginner-friendly data science practice.
