@@ -112,6 +112,10 @@ Most players prefer their right foot.
 
 Height and salary extremes highlight physical and financial diversity in professional football.
 
+## Video presentation and Code Explanation
+
+https://drive.google.com/file/d/1iEketfI8eX0Tc3KwKcY6I0wsgKJEeENh/view?usp=drive_link
+
 ## Conclusion
 
 This project demonstrates how EDA helps uncover trends and patterns in sports datasets.
